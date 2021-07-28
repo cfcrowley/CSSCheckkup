@@ -27,3 +27,9 @@
 .Funky-Background{
     background-color: fuchsia;
 }
+
+.Width{
+    height: 150px;
+    width: 62%;
+    background-color: greenyellow;
+}
