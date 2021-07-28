@@ -17,3 +17,9 @@
     margin: 60px 80px 80px 60px;
     padding: 15px 15px 15px 15px;
 }
+
+.Font{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkviolet;
+}
